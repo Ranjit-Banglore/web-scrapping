@@ -1,4 +1,4 @@
-package com.ranjit;
+package com.ranjit.utils;
 
 /**
  * works on the basic of divide and conquire
